@@ -1,1 +1,21 @@
+[
+  {
+    "id": "1",
+    "title": "Elegent Sea Blue V-Neck Ruffle Hemm",
+    "price": "$120",
+    "imageUrl": "https://raw.githubusercontent.com/malari786/Images/main/53b175bf-ba85-421f-9917-cccae6c974d9.jpeg"
+  },
+  {
+    "id": "2",
+    "title": "Stock Graph",
+    "price": "$200",
+    "imageUrl": "https://raw.githubusercontent.com/malari786/Images/main/c4b9492e-b05a-4f56-a2f1-9b032d68bb69.jpeg"
+  },
+  {
+    "id": "3",
+    "title": "Investment Growth",
+    "price": "$320",
+    "imageUrl": "https://via.placeholder.com/400x300/3357FF"
+  }
+]
 
