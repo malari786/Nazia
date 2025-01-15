@@ -3,19 +3,31 @@
     "id": "1",
     "title": "Elegent Sea Blue V-Neck Ruffle Hemm",
     "price": "$120",
-    "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/53b175bf-ba85-421f-9917-cccae6c974d9.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/53b175bf-ba85-421f-9917-cccae6c974d9.jpeg",
+     "subImages": [
+      { "id": "1-1", "title": "Bull Icon", "imageUrl": "https://via.placeholder.com/200x150/FF5733" },
+      { "id": "1-2", "title": "Market Growth", "imageUrl": "https://via.placeholder.com/200x150/FFB733" }
+    ]
   },
   {
     "id": "2",
     "title": "Stock Graph",
     "price": "$200",
-    "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/75aadf46-49f2-412e-92ac-a4151ee3e1b4.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/75aadf46-49f2-412e-92ac-a4151ee3e1b4.jpeg",
+    "subImages": [
+      { "id": "2-1", "title": "Stock Line Chart", "imageUrl": "https://via.placeholder.com/200x150/33FF77" },
+      { "id": "2-2", "title": "Candlestick Chart", "imageUrl": "https://via.placeholder.com/200x150/77FF33" }
+    ]
   },
   {
     "id": "3",
     "title": "Investment Growth",
     "price": "$320",
-    "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/85e777cf-5295-46d4-83af-e559b45f3bfd.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/85e777cf-5295-46d4-83af-e559b45f3bfd.jpeg",
+    "subImages": [
+      { "id": "3-1", "title": "Stock Line Chart", "imageUrl": "https://via.placeholder.com/200x150/33FF77" },
+      { "id": "3-2", "title": "Candlestick Chart", "imageUrl": "https://via.placeholder.com/200x150/77FF33" }
+    ]
   }
 ]
 
