@@ -23,7 +23,7 @@
     "id": "3",
     "title": "Investment Growth",
     "price": "$320",
-    "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/8454bd80-3df2-430c-a0e0-13003d6996ce.jpeg,
+    "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/8454bd80-3df2-430c-a0e0-13003d6996ce.jpeg",
     "subImages": [
       { "id": "3-1", "title": "Stock Line Chart", "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/bb27cf42-f31b-420f-8128-1e1e9ed3d909.jpeg" },
       { "id": "3-2", "title": "Candlestick Chart", "imageUrl": "https://via.placeholder.com/200x150/77FF33" }
