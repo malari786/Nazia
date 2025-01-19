@@ -5,8 +5,10 @@
     "price": "$120",
     "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/53b175bf-ba85-421f-9917-cccae6c974d9.jpeg",
      "subImages": [
-      { "id": "1-1", "title": "Bull Icon", "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/bb27cf42-f31b-420f-8128-1e1e9ed3d909.jpeg" },
-      { "id": "1-2", "title": "Market Growth", "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/fd3dc9ca-a9f3-4347-862c-d3156d21872b.jpeg" }
+      { "id": "1-1", "title": "Bull Icon", "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/53b175bf-ba85-421f-9917-cccae6c974d9.jpeg"},
+      { "id": "1-2", "title": "Bull Icon", "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/bb27cf42-f31b-420f-8128-1e1e9ed3d909.jpeg" },
+      { "id": "1-3", "title": "Market Growth", "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/75aadf46-49f2-412e-92ac-a4151ee3e1b4.jpeg" },
+      { "id": "1-3", "title": "Market Growth", "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/c4b9492e-b05a-4f56-a2f1-9b032d68bb69.jpeg"}
     ]
   },
   {
@@ -15,9 +17,8 @@
     "price": "$200",
     "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/8cf3789f-dfb0-450f-8c85-7e2bde553c7f.jpeg",
     "subImages": [
-      { "id": "2-1", "title": "Stock Line Chart", "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/8cf3789f-dfb0-450f-8c85-7e2bde553c7f.jpeg" },
-      { "id": "2-2", "title": "Candlestick Chart", "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/03b3dcdc-e704-4980-8b50-e84e5caf3ed6.jpeg" },
-      { "id": "2-3", "title": "Candlestick Chart", "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/720d8ee9-cfaa-4462-a762-9c7ccccd6eb8.jpeg"}
+      { "id": "2-1", "title": "Stock Line Chart", "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/720d8ee9-cfaa-4462-a762-9c7ccccd6eb8.jpeg" },
+      { "id": "2-2", "title": "Candlestick Chart", "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/03b3dcdc-e704-4980-8b50-e84e5caf3ed6.jpeg" }
     ]
   },
   {
