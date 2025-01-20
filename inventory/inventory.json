@@ -17,8 +17,9 @@
     "price": "$200",
     "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/8cf3789f-dfb0-450f-8c85-7e2bde553c7f.jpeg",
     "subImages": [
-      { "id": "2-1", "title": "Stock Line Chart", "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/720d8ee9-cfaa-4462-a762-9c7ccccd6eb8.jpeg" },
-      { "id": "2-2", "title": "Candlestick Chart", "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/03b3dcdc-e704-4980-8b50-e84e5caf3ed6.jpeg" }
+      { "id": "2-1", "title": "Sample_1", "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/720d8ee9-cfaa-4462-a762-9c7ccccd6eb8.jpeg" },
+      { "id": "2-e", "title": "Sample_2", "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/720d8ee9-cfaa-4462-a762-9c7ccccd6eb8.jpeg" },
+      { "id": "2-3", "title": "Sample_3", "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/03b3dcdc-e704-4980-8b50-e84e5caf3ed6.jpeg" }
     ]
   },
   {
@@ -27,7 +28,7 @@
     "price": "$320",
     "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/8454bd80-3df2-430c-a0e0-13003d6996ce.jpeg",
     "subImages": [
-      { "id": "3-1", "title": "Stock Line Chart", "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/bb27cf42-f31b-420f-8128-1e1e9ed3d909.jpeg" },
+      { "id": "3-1", "title": "Stock Line Chart", "imageUrl": "https://raw.githubusercontent.com/malari786/Nazia/main/images/8454bd80-3df2-430c-a0e0-13003d6996ce.jpeg" },
       { "id": "3-2", "title": "Candlestick Chart", "imageUrl": "https://via.placeholder.com/200x150/77FF33" }
     ]
   }
